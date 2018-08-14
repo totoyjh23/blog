@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 
-remote_theme : beautiful/beautiful-jekyll
+remote_theme : beautiful-jekyll/beautiful-jekyll
 url: "http://totoyjh23.github.io"
 baseurl: "/blog"
 
